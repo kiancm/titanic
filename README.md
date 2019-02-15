@@ -1,1 +1,1 @@
-Kaggle projects
+Kaggle Titanic Project
